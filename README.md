@@ -1,6 +1,10 @@
 ##  Bitcoin Stock Price Prediction using LSTM
 
-[TOC]
+| Part I: Project Overview                                     |
+| ------------------------------------------------------------ |
+| **Part 2: Instructions on how to successfully run our code** |
+
+
 
 ### Part I: Project Overview
 
