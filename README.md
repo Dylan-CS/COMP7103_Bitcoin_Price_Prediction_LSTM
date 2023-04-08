@@ -33,6 +33,8 @@ These features can provide valuable information about the Bitcoin performance, t
 
 ### Part 2: Instructions on how to successfully run our code
 
+Remark: If you meet some problems when running the code ,you can just open the file `bitcoin_price_prediction-lstm.html` to see all the results  or come to contact us-: chenyuxi@connect.hku.hk
+
 1. clone the project
 
    ```
