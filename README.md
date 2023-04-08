@@ -1,10 +1,10 @@
-##  Bitcoin Stock Price Prediction using LSTM
+#  Bitcoin Stock Price Prediction using LSTM
 
-| Part I: Project Overview                                     |
-| ------------------------------------------------------------ |
-| **Part 2: Instructions on how to successfully run our code** |
-
-
+```
+、
+├── Part I: Project Overview  
+└── Part 2: Instructions on how to successfully run our code
+```
 
 ### Part I: Project Overview
 
@@ -55,7 +55,7 @@ These features can provide valuable information about the Bitcoin performance, t
    tensorflow: pip install tensrflow
    ```
 
-4. run the file `bitcoin_price_prediction-lstm.ipynb` in jupyterLab and you can see all the precess, including
+4. run the file `bitcoin_price_prediction-lstm.ipynb` in jupyterLab and you can see all the processes:
 
    ```
    1. Import Libraries Needed for the data mining project
