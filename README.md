@@ -10,11 +10,9 @@
 
 **Course Assignment 1**:  Data Mining - COMP7103C
 
-**Team**:  Jiali YUAN(3035971569)、Yuxi CHEN(3036034497)、
+**Team**:  Jiali YUAN(3035971569)、Yuxi CHEN(3036034497)、Xianfu WU(3035670022)、Biying YANG(3036034227)
 
-​             Xianfu WU(3035670022)、Biying YANG(3036034227)
-
-**Source code**: https://github.com/Dylan-CS/COMP7103_Bitcoin_Price_Prediction_LSTM/blob/main/bitcoin_price_prediction-lstm.ipynb
+**Source code**: [bitcoin_price_prediction-lstm.ipynb](https://github.com/Dylan-CS/COMP7103_Bitcoin_Price_Prediction_LSTM/blob/main/bitcoin_price_prediction-lstm.ipynb)
 
 **Dataset**: https://github.com/Dylan-CS/COMP7103_Bitcoin_Price_Prediction_LSTM/blob/main/BTC-USD.csv
 
