@@ -25,7 +25,7 @@ These features are used for financial analysis, prediction, and decision-making.
 
 ## Instructions to Run the Code
 
-If you encounter any issues, you can view the results in `bitcoin_price_prediction-lstm.html` or contact us at chenyuxi@connect.hku.hk.
+If you encounter any issues, you can view the results in `bitcoin_price_prediction-lstm.html` or contact us
 
 1. **Clone the Project**
 
